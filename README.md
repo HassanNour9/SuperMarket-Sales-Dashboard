@@ -1,2 +1,2 @@
-![Project Logo](https://github.com/HassanNour9/SuperMarket-Sales-Dashboard/blob/main/Dashboard/SuperMarketSales Dashboard.png)
-![Project Logo](https://github.com/HassanNour9/SuperMarket-Sales-Dashboard/blob/main/Dashboard/SuperMarketSales Dashboard2.png)
+![Project Logo](https://github.com/HassanNour9/SuperMarket-Sales-Dashboard/blob/main/Dashboard/SuperMarketSales%20Dashboard.png)
+![Project Logo](https://github.com/HassanNour9/SuperMarket-Sales-Dashboard/blob/main/Dashboard/SuperMarketSales%20Dashboard2.png)
